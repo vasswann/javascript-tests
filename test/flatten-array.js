@@ -4,7 +4,7 @@ describe('flatten array', function () {
         expected = [1, 1, 1, 2, 2, 2, 2, 3, 4, 5],
         flatArr = [];
 
-        // convert to a string, split with come then sort
+        // convert to a string, split with comma then sort
         // const arrayToString = arr.toString();
         // flatArr = arrayToString.split(',').sort((a, b)=> a - b);
 
